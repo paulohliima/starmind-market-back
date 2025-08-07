@@ -16,6 +16,12 @@ A API expõe um endpoint `POST /api/chat` que recebe um prompt e envia para o mo
 - Axios
 - Dotenv
 
-## Hospedado no [Railway ](https://starmind-market-back-production.up.railway.app/api/chat/)
+## Hospedado no [Railway]
 
-  
+
+
+Fazer requisição POST para esta rota ->  https://starmind-market-back-production.up.railway.app/api/chat/
+Body -> Json
+{
+  "message": "Olá"
+}
