@@ -43,7 +43,7 @@ app.post('/api/chat', async (req, res) => {
       }
     );
 
-    const answer = response.data.choices?.[0].message?.content || 'Desculpe, não consegui responder à pergunta.';
+    const answer = response.data.choices?.[0].message?.content || 'Limite de tokens excedidos, renove a key';
     res.json({ response: answer });
   } catch (error: any) {
     console.error('Erro OpenRouter:', error.response?.data || error.message);
