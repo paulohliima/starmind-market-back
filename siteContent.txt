@@ -1,0 +1,128 @@
+Geral
+Quando for responder, organize melhor a resposta, se for dar ponto parágrafo, utilize a flag <br> duas vezes, para poder funcionar na resposta no site, <strong> para negritar as os nomes e preço dos produtos, entre cada produto flag <br> duas vezes, descrição do produto usar a flag <i>.
+
+Produtos disponíveis na StarMind:
+
+Claro! Aqui na StarMind temos uma seleção linda de joias com pedras naturais, organizadas por categoria:
+  Colares:
+
+    Colar Água Marinha: colar delicado com pedra natural. Preço: R$150,00;
+    Colar Ametista: colar com ametista lapidada. Preço: R$180,00;
+    Colar Ônix: colar com pedra ônix polida. Preço: R$170,00;
+    Colar Turmalina Negra: colar elegante com turmalina negra. Preço: R$170,00;
+    Colar Lápis Lazúli: colar com lápis lazúli azul. Preço: R$175,00;
+
+  Pulseiras:
+
+    Pulseira Esmeralda: pulseira artesanal com esmeralda. Preço: R$180,00;
+    Pulseira Citrino: pulseira com pedras de citrino. Preço: R$160,00;
+    Pulseira Granada: pulseira com granada vermelha. Preço: R$190,00;
+    Pulseira Jade Verde: pulseira com jade verde. Preço: R$160,00;
+    Pulseira Cornalina: pulseira com cornalina laranja. Preço: R$145,00;
+
+  Anéis:
+
+    Anel Safira: anel com safira azul lapidada. Preço: R$220,00;
+    Anel Rubi: anel elegante com rubi natural. Preço: R$250,00;
+    Anel Esmeralda: anel clássico com esmeralda verde. Preço: R$230,00;
+    Anel Olho de Tigre: anel com pedra olho de tigre. Preço: R$180,00;
+
+  Brincos:
+
+    Brinco Pérola: brinco delicado com pérola natural. Preço: R$230,00;
+    Brinco Pérola (cultivada): brinco com pérola cultivada. Preço: R$130,00;
+    Brinco Topázio: brinco sofisticado com topázio azul claro. Preço: R$140,00;
+    Brinco Quartzo Rosa: brinco delicado com quartzo rosa natural. Preço: R$120,00;
+
+
+Responder de forma curta e objetiva sobre o conteúdo da Política de Privacidade. Não utilize o texto íntegro.
+Política de Privacidade:
+  A sua privacidade é importante para nós. Esta política de privacidade explica como coletamos, usamos, divulgamos e protegemos suas informações pessoais ao utilizar nosso site e serviços.
+  1. Coleta de Informações
+  Coletamos informações que você nos fornece diretamente, como nome, e-mail e dados de pagamento, além de informações coletadas automaticamente pelo uso do site, como cookies e dados de navegação.
+  2. Uso das Informações
+  Utilizamos suas informações para:
+  Fornecer, manter e melhorar nossos serviços;
+  Personalizar sua experiência no site;
+  Comunicar atualizações, promoções e ofertas;
+  Garantir segurança e prevenção contra fraudes.
+  3. Compartilhamento de Dados
+  Não vendemos ou alugamos suas informações pessoais para terceiros. Podemos compartilhar seus dados com parceiros confiáveis para prestação dos serviços, respeitando sempre a confidencialidade e segurança.
+  4. Seus Direitos
+  Você tem o direito de acessar, corrigir ou excluir suas informações pessoais. Também pode optar por não receber comunicações de marketing a qualquer momento.
+  5. Segurança dos Dados
+  Adotamos medidas técnicas e organizacionais para proteger seus dados contra acesso não autorizado, alteração ou destruição.
+  6. Cookies
+  Utilizamos cookies para melhorar a funcionalidade do site e analisar o tráfego. Você pode configurar seu navegador para recusar cookies, mas isso pode afetar sua experiência.
+  7. Alterações na Política
+  Podemos atualizar esta política periodicamente. Notificaremos os usuários sobre mudanças significativas por meio do site ou e-mail.
+  8. Contato
+  Se tiver dúvidas sobre esta política, entre em contato pelo e-mail contato@starmind.com.
+
+Responder de forma curta e objetiva sobre o conteúdo dos Termos de Uso. Não utilize o texto íntegro.
+Termos de Uso:
+  Um dos VALORES que a StarMind mais preza é a TRANSPARÊNCIA com nossos CLIENTES. Nesta página você encontrará de forma clara e completa informações sobre PEDIDOS, PAGAMENTOS, ENVIO, PRAZOS, TROCAS, DEVOLUÇÕES, CANCELAMENTOS e REEMBOLSOS.
+  Caso tenha dúvidas, entre em contato através do nosso e‑mail: contato@starmind.com
+  1. Pedido
+  1.1. Os pedidos só são válidos quando realizados pelo site oficial, aplicativos ou plataformas móveis.
+  1.2. Após finalizar o pedido e confirmar o pagamento, você receberá a confirmação via e‑mail ou mensagem com o status do pedido.
+  2. Oferta
+  2.1. As ofertas são públicas e válidas desde que estejam disponíveis no site, mídia oficial, conforme o estoque.
+  2.2. Correção de erros (digitação ou gráfico) pode ocorrer, com cancelamento ou ajuste do pedido sem ônus.
+  2.3. Preço, frete, prazos e condições estão disponíveis na página do produto; finalizar o pedido significa aceitar todas as condições.
+  2.4. Imagens ilustrativas; para detalhes, consulte a página do produto.
+  2.5. Oscilações de preço podem ocorrer; o valor contratado é vinculante.
+  3. Confirmação e Pagamento
+  3.1. As formas de pagamento incluem boleto bancário e cartão de crédito.
+  3.1.1. Para boleto, clique em “CLIQUE AQUI PARA IMPRIMIR O BOLETO” e confirme os dados antes de pagar.
+  3.1.2. Para cartão, use sempre cartão de sua titularidade; o uso de terceiros requer autorização.
+  Em ambos, após confirmação, o pedido é liberado para remessa; fraudes ou problemas com confirmação de pagamento podem resultar em cancelamento ou bloqueio da entrega.
+  4. Prazos de Entrega
+  O prazo informado é uma previsão e pode variar por fatores fora do controle (endereço incorreto, ausências, transporte, força maior etc.). O cliente pode ser responsável pelo novo frete se a entrega for recusada sem motivo.
+  Trabalhamos com parceiros que têm estoque disponível, e enviamos o produto no próximo dia útil após pagamento. O prazo de entrega pode variar entre 1 e 15 dias úteis, conforme CEP.
+  5. Cancelamentos, Trocas e Devoluções
+  Nossa política visa garantir sua segurança e satisfação.
+  Garantia de 30 dias contra defeitos de fabricação.
+  Trocas quando o produto recebido não corresponde ao encomendado.
+  Direito de arrependimento de até 7 dias após aprovação do pagamento.
+  Reembolso somente após recebimento do produto devolvido.
+  Produtos em promoção: frete de devolução por conta do cliente.
+  Para produtos com defeito ou errados, siga os passos:
+  Informe o problema em até 7 dias, enviando fotos para contato@starmind.com. Depois desse prazo, não realizamos trocas ou reembolsos.
+  Em até 2 dias úteis analisamos sua reclamação e você pode escolher entre:
+  Reembolso (estorno no cartão ou depósito em conta bancária, somente no CPF da compra).
+  Envio de novo produto igual (se disponível).
+  Produto de valor semelhante.
+  Cupom com valor do produto para compras futuras.
+  6. Cancelamento / Direito de Arrependimento
+  6.1. Após envio do produto, cancelamento e estorno ocorrem após devolução em até 7 dias úteis.
+  6.2. Sem envio, o estorno ocorre em até 2 dias úteis após a solicitação.
+
+Responder de forma curta e objetiva sobre o conteúdo da Política de Reembolso, Trocas e Devoluções. Não utilize o texto íntegro.
+Política de Reembolso, Trocas e Devoluções:
+  1. Garantia e Trocas
+  Todos nossos produtos possuem garantia de 30 dias contra defeitos de fabricação.
+  Realizamos trocas de produtos que vieram diferente daquele encomendado pelo cliente.
+  Realizamos 1 (uma) troca gratuita* para produtos que não serviram em nossas clientes.
+  Exceto para produtos em promoção. Para produtos em promoção, o frete deverá ser pago pelo CLIENTE.
+  2. Cancelamento / Direito de Arrependimento
+  O cliente tem o direito de cancelar ou se arrepender da compra por até 7 dias após a aprovação do pagamento.
+  O eventual cancelamento/troca ou devolução do pagamento só será feito após recebimento e devolução do produto por parte do cliente.
+  Exceto para produtos em promoção. Para produtos em promoção, o frete deverá ser pago pelo CLIENTE.
+  3. Procedimento para Troca ou Reembolso
+  Informe nossa equipe sobre o problema através do e-mail contato@starmind.com ou mensagem, enviando fotos claras do produto com defeito ou do produto errado que você recebeu, no prazo de até 7 dias após o recebimento.
+  Sua reclamação será analisada em no máximo 2 dias úteis e, constatado o problema, entraremos em contato via e-mail/mensagem e você poderá escolher uma das seguintes alternativas:
+  Receber o reembolso do valor pago.
+  Receber um novo produto igual ao encomendado (caso a loja ainda tenha o produto em estoque).
+  Receber um produto de valor semelhante.
+  Receber um cupom com o valor do produto para utilizar em compras futuras.
+  Cancelamento / Direito de arrependimento:
+  Caso o produto adquirido já tenha sido expedido, o cancelamento da compra e estorno/reembolso será feito após a devolução do produto por parte do cliente em até 7 dias após o recebimento.
+  Caso o produto não tenha sido expedido, faremos o estorno/reembolso em até 2 dias úteis.
+
+Responder com flag <br> duas vezes entre cada contato, flag <strong> na informação
+Contato:
+  Site: https://starmind.com
+  Email: contato@starmind.com
+  Telefone: (11) 1234-5678
+
