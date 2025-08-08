@@ -12,6 +12,14 @@ dotenv.config();
 const OPENROUTER_API_KEY = process.env.OPENROUTER_API_KEY;
 const siteContent = fs.readFileSync('siteContent.txt', 'utf-8');
 
+app.get('/api', async (req, res) => {
+  try {
+    res.json({ response: 'Projeto em execução' });
+  } catch (error: any) {
+    res.status(500).json({ response: 'Erro ao conectar ao projeto' });
+  }
+});
+
 app.post('/api/chat', async (req, res) => {
   const { message } = req.body;
 
